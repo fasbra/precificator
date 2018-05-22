@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/PrecificatorMVC/PrecificatorMVC/bin
+/PrecificatorMVC/PrecificatorMVC/obj/Debug
+/PrecificatorMVC/.vs

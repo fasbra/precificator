@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecificatorMVC", "PrecificatorMVC\PrecificatorMVC.csproj", "{070725C0-AFF4-4B45-8991-61CE1230C016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecificatorMVC.Tests", "PrecificatorMVC.Tests\PrecificatorMVC.Tests.csproj", "{900CC8B3-36E8-4F3E-9799-A8067C41ECDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{070725C0-AFF4-4B45-8991-61CE1230C016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070725C0-AFF4-4B45-8991-61CE1230C016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070725C0-AFF4-4B45-8991-61CE1230C016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070725C0-AFF4-4B45-8991-61CE1230C016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900CC8B3-36E8-4F3E-9799-A8067C41ECDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900CC8B3-36E8-4F3E-9799-A8067C41ECDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900CC8B3-36E8-4F3E-9799-A8067C41ECDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900CC8B3-36E8-4F3E-9799-A8067C41ECDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {663B15AC-98D4-4B20-B01B-39BA7B78F8AB}
+	EndGlobalSection
+EndGlobal
